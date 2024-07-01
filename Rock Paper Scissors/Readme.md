@@ -1,5 +1,12 @@
 # Rock-Paper-Scissors Game
 
+>[!IMPORTANT]
+> - This Mini-Project Explore the following concepts :
+>    - Random Library in Java.
+>    - Scanner Class in Java.
+>    - Conditional Statements.
+>
+
 ## Description
 This is a simple console-based Rock-Paper-Scissors game implemented in Java. The user plays against the computer, and the result of each round is displayed on the console.
 
