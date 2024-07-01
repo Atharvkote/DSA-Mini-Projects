@@ -1,7 +1,7 @@
 # Number-Guessing Game
 
 >[!IMPORTANT]
-> - This Game Explore the following concepts :
+> - This Mini-Project Explore the following concepts :
 >    - Random Library in Java.
 >    - Object-Oriented Programming.
 >    - Conditional Statements.
